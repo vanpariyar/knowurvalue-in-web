@@ -6,7 +6,7 @@ logo = "images/logo.svg"
 # use `x` with logo_width, example: "100x"
 logo_width = "240x"
 # logo text will only show when logo is missing.
-logo_text = "Andromeda"
+logo_text = "Know Your Value"
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
 author = "Themefisher"
