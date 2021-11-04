@@ -51,9 +51,6 @@ mediaType = "application/manifest+json"
 rel = "manifest"
 
 ######################### site variables ##############################
-#buy_premium_popup = true
-
-######################### site variables ##############################
 # customize your color and font from here.
 [params.variables]
 white = "#ffffff"
